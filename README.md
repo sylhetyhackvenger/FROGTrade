@@ -1,11 +1,4 @@
 ![Banner 1](assets/8.png)
-<p align="center">
-  <img
-    src="./assets/frog-trade-player.svg"
-    alt="FROG TRADE — The Pond Masterclass"
-    width="100%"
-  />
-</p>
 
 FROG TRADE — A professional-grade, terminal-based trading laboratory disguised as a procrastination engine.
 
@@ -1379,7 +1372,14 @@ The guard is hard. You must restart the program to reset. This is intentional �
 Press Ctrl+C. The program handles it gracefully and restores the cursor.
 
 ---
-
+<p align="center">
+  <img
+    src="./assets/frog-trade-player.svg"
+    alt="FROG TRADE — The Pond Masterclass"
+    width="100%"
+  />
+</p>
+  
 🎓 Learning Path — 30-Day Curriculum
 
 Week 1 — Foundations
