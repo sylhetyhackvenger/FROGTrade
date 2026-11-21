@@ -1,12 +1,9 @@
-
 <p align="center">
-  <a href="./frog-trade-player.svg">
-    <img
-      src="./frog-trade-player.svg"
-      alt="FROG TRADE - The Pond Masterclass"
-      width="100%"
-    />
-  </a>
+  <img
+    src="./asset/frog-trade-player.svg"
+    alt="FROG TRADE — The Pond Masterclass"
+    width="100%"
+  />
 </p>
 
 FROG TRADE — A professional-grade, terminal-based trading laboratory disguised as a procrastination engine.
