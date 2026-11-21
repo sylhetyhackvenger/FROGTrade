@@ -1,3 +1,4 @@
+![Banner 1](assets/8.png)
 <p align="center">
   <img
     src="./assets/frog-trade-player.svg"
