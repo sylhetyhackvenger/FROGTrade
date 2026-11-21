@@ -1536,7 +1536,11 @@ Tip 10 — Restart to Reset the Daily Limit
 
 The 10% daily loss limit is a hard guard. Restarting the program resets it. Don't abuse this. It's there to protect you.
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/MzmVhBnhEBLm6EIEAC/giphy.gif"
+       width="100%"
+       alt="Pepe YoungPeezy animation">
+</div>
 
 ❓ FAQ
 
