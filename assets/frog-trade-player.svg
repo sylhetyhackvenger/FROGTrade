@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">FROG TRADE — The Pond Masterclass</title>
+<desc id="desc">A cinematic emerald frog master laughs while teaching trading with a wooden pointer beside glowing candlestick charts at a misty pond at dawn. Animated SVG scene with a faux player interface.</desc>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#081426"/><stop offset=".48" stop-color="#243d4a"/><stop offset="1" stop-color="#d18a58"/></linearGradient>
+  <radialGradient id="sun"><stop stop-color="#fff4c6"/><stop offset=".35" stop-color="#ffc477" stop-opacity=".85"/><stop offset="1" stop-color="#ff9c56" stop-opacity="0"/></radialGradient>
+  <linearGradient id="skin" x1=".15" y1="0" x2=".8" y2="1"><stop stop-color="#c5f36a"/><stop offset=".35" stop-color="#65b83d"/><stop offset=".72" stop-color="#26733d"/><stop offset="1" stop-color="#103d32"/></linearGradient>
+  <radialGradient id="belly" cx=".45" cy=".25" r=".8"><stop stop-color="#d9e99a"/><stop offset=".6" stop-color="#91b85a"/><stop offset="1" stop-color="#4b8247"/></radialGradient>
+  <linearGradient id="wood" x2="0" y2="1"><stop stop-color="#e8c58a"/><stop offset=".5" stop-color="#93623a"/><stop offset="1" stop-color="#4d3025"/></linearGradient>
+  <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#b7f7d5" stop-opacity=".2"/><stop offset="1" stop-color="#43d9a0" stop-opacity=".02"/></linearGradient>
+  <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#fff2b2"/><stop offset=".5" stop-color="#e5ad52"/><stop offset="1" stop-color="#9a642d"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feGaussianBlur in="SourceAlpha" stdDeviation="12"/><feOffset dy="14"/><feComponentTransfer><feFuncA type="linear" slope=".55"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grain" width="120" height="120" patternUnits="userSpaceOnUse"><circle cx="12" cy="18" r="1" fill="#fff" opacity=".15"/><circle cx="82" cy="65" r=".8" fill="#fff" opacity=".12"/><circle cx="44" cy="102" r=".7" fill="#fff" opacity=".12"/></pattern>
+  <clipPath id="round"><rect x="0" y="0" width="1200" height="675" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <circle cx="850" cy="205" r="180" fill="url(#sun)" filter="url(#blur)"/>
+  <circle cx="850" cy="205" r="54" fill="#ffd69a" opacity=".8"/>
+  <path d="M0 340 Q180 280 350 340 T700 325 T1200 320 V675 H0Z" fill="#152f36"/>
+  <path d="M0 385 Q180 350 360 390 T760 380 T1200 365 V675 H0Z" fill="#1b4c4a"/>
+  <path d="M0 465 Q230 430 420 470 T820 450 T1200 460 V675 H0Z" fill="#0b3033"/>
+  <g opacity=".5" filter="url(#blur)" fill="#e9ad72"><ellipse cx="875" cy="390" rx="240" ry="18"/><ellipse cx="720" cy="455" rx="300" ry="10"/></g>
+  <g stroke="#9bc7a2" opacity=".24" fill="none"><path d="M0 510 Q220 490 440 515 T900 510 T1200 500"/><path d="M0 550 Q260 530 520 552 T1000 548 T1200 540"/></g>
+  <!-- distant reeds -->
+  <g stroke="#557c55" stroke-width="5" fill="none" opacity=".7"><path d="M80 460q-12-80-2-130m0 65q-38-48-50-60M1060 425q14-85 6-145m-4 90q38-50 58-58M1120 440q-4-65 18-115"/></g>
+  <!-- floating lesson panel -->
+  <g transform="translate(720 100)">
+    <rect width="390" height="230" rx="18" fill="#071b22" fill-opacity=".72" stroke="#9de7bd" stroke-opacity=".42"/>
+    <rect x="16" y="16" width="358" height="198" rx="12" fill="url(#glass)" stroke="#b8f4d5" stroke-opacity=".12"/>
+    <text x="34" y="47" fill="#d8f5d8" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">THE MASTER'S BLACKBOARD</text>
+    <path d="M35 174H355M35 83H355M35 128H355" stroke="#b9e8d2" opacity=".13" stroke-dasharray="4 7"/>
+    <g stroke-width="4" stroke-linecap="round">
+      <path d="M72 150V105m-9 12h18v23H63z" stroke="#5ee0a0" fill="#42b982"/>
+      <path d="M124 160V92m-9 18h18v28h-18z" stroke="#ff8d77" fill="#d86b5f"/>
+      <path d="M176 142V75m-9 14h18v34h-18z" stroke="#5ee0a0" fill="#42b982"/>
+      <path d="M228 124V66m-9 15h18v27h-18z" stroke="#5ee0a0" fill="#42b982"/>
+      <path d="M280 110V58m-9 11h18v26h-18z" stroke="#ffbd68" fill="#dc9950"/>
+    </g>
+    <path d="M42 183 Q105 172 150 145 T260 95 T345 67" fill="none" stroke="#f3d48d" stroke-width="3" stroke-dasharray="7 6" filter="url(#glow)"/>
+    <text x="34" y="203" fill="#91d8b1" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">PATIENCE • STRUCTURE • RISK</text>
+  </g>
+  <!-- frog shadow -->
+  <ellipse cx="430" cy="590" rx="250" ry="43" fill="#020d13" opacity=".6" filter="url(#blur)"/>
+  <!-- frog body -->
+  <g filter="url(#shadow)">
+    <path d="M245 570Q210 480 270 390Q320 320 440 330Q575 337 615 445Q645 535 580 586Q500 630 325 608Z" fill="url(#skin)" stroke="#a8df68" stroke-width="5"/>
+    <path d="M315 550Q305 465 372 425Q460 380 535 445Q582 492 548 572Q460 614 360 585Z" fill="url(#belly)" opacity=".95"/>
+    <path d="M280 548Q230 585 210 615Q250 635 330 611L370 580" fill="#367b43" stroke="#a5d96b" stroke-width="5"/>
+    <path d="M550 555Q620 570 650 612Q610 638 540 608L510 578" fill="#347a42" stroke="#a5d96b" stroke-width="5"/>
+    <!-- head -->
+    <path d="M245 390Q210 310 270 250Q310 202 375 235Q430 190 490 232Q565 215 610 285Q650 355 590 418Q530 470 390 455Q285 450 245 390Z" fill="url(#skin)" stroke="#b4e879" stroke-width="6"/>
+    <!-- eye domes -->
+    <ellipse cx="330" cy="270" rx="68" ry="70" fill="url(#skin)" stroke="#b5e978" stroke-width="5"/>
+    <ellipse cx="510" cy="264" rx="68" ry="70" fill="url(#skin)" stroke="#b5e978" stroke-width="5"/>
+    <ellipse cx="337" cy="267" rx="35" ry="42" fill="#f0e8bd"/>
+    <ellipse cx="504" cy="261" rx="35" ry="42" fill="#f0e8bd"/>
+    <ellipse cx="347" cy="268" rx="18" ry="29" fill="#142b24"/>
+    <ellipse cx="494" cy="262" rx="18" ry="29" fill="#142b24"/>
+    <circle cx="353" cy="253" r="8" fill="#fff" opacity=".9"/><circle cx="500" cy="247" r="8" fill="#fff" opacity=".9"/>
+    <!-- cheeks -->
+    <ellipse cx="285" cy="385" rx="40" ry="21" fill="#d98770" opacity=".38"/>
+    <ellipse cx="565" cy="380" rx="40" ry="21" fill="#d98770" opacity=".34"/>
+    <!-- laughing mouth -->
+    <path d="M292 374Q420 478 557 370Q532 470 430 475Q335 458 292 374Z" fill="#351d20" stroke="#163d2b" stroke-width="7"/>
+    <path d="M321 395Q420 449 529 392Q500 433 420 440Q355 432 321 395Z" fill="#c94f57"/>
+    <path d="M328 392Q420 431 520 391L504 414Q418 442 340 413Z" fill="#fff4d6"/>
+    <path d="M400 435Q425 420 451 435Q442 458 424 460Q408 455 400 435Z" fill="#ef7581"/>
+    <!-- nostrils -->
+    <ellipse cx="385" cy="347" rx="5" ry="3" fill="#17432e"/><ellipse cx="468" cy="345" rx="5" ry="3" fill="#17432e"/>
+    <!-- collar / waistcoat -->
+    <path d="M320 475Q420 515 535 472L560 592Q445 630 310 588Z" fill="#163b3b" stroke="#d4b16b" stroke-width="5"/>
+    <path d="M390 493L425 532L458 493L447 605L405 605Z" fill="#e0c18a"/>
+    <path d="M405 525L425 540L445 525" fill="none" stroke="#80542e" stroke-width="4"/>
+    <circle cx="426" cy="565" r="5" fill="#f6d48d"/><circle cx="426" cy="586" r="5" fill="#f6d48d"/>
+    <!-- arm -->
+    <path d="M530 475Q600 455 625 400Q641 375 665 387Q681 405 655 438Q621 505 558 535Z" fill="url(#skin)" stroke="#a8df68" stroke-width="5"/>
+  </g>
+  <!-- pointer stick, sweeping -->
+  <g transform="translate(0 0)">
+    <path d="M650 407L833 170" stroke="#3b2519" stroke-width="17" stroke-linecap="round"/>
+    <path d="M650 407L833 170" stroke="url(#wood)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M652 402L831 174" stroke="#ffe0a6" stroke-width="2.5" opacity=".7"/>
+    <circle cx="650" cy="407" r="12" fill="#d9b77d" stroke="#593b27" stroke-width="4"/>
+    <path d="M827 171l13-17 4 22" fill="none" stroke="#e6c58d" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- animated laugh bounce -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0;0 -3;0 0" dur="2.4s" repeatCount="indefinite"/>
+    <path d="M267 225Q245 198 265 182M585 225Q606 198 588 180" stroke="#f6d68e" stroke-width="5" stroke-linecap="round" fill="none" opacity=".8"/>
+    <path d="M252 205l-16-12m362 12l17-13" stroke="#f6d68e" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- floating fireflies -->
+  <g fill="#ffe5a2" filter="url(#glow)">
+    <circle cx="135" cy="260" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="675" cy="250" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1035" cy="355" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="185" cy="430" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- cinematic title -->
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="62" y="76" fill="#e6f4df" font-size="15" letter-spacing="7" opacity=".9">SYLHETYHACKVENGER PRESENTS</text>
+    <text x="60" y="132" fill="#f6e7bd" font-size="53" font-weight="900" letter-spacing="3">FROG <tspan fill="#a6e47a">TRADE</tspan></text>
+    <text x="64" y="163" fill="#d2e6ce" font-size="15" letter-spacing="4">THE POND MASTERCLASS</text>
+    <text x="64" y="198" fill="#f2d79d" font-size="13" letter-spacing="2">“A good trader knows when to wait.”</text>
+  </g>
+  <!-- player chrome -->
+  <rect x="0" y="0" width="1200" height="675" fill="url(#grain)" opacity=".35"/>
+  <rect x="22" y="22" width="1156" height="631" rx="18" fill="none" stroke="#d5f0db" stroke-opacity=".22"/>
+  <g transform="translate(54 606)" font-family="Arial,sans-serif">
+    <rect width="1092" height="44" rx="13" fill="#06151c" fill-opacity=".82" stroke="#bcebd1" stroke-opacity=".25"/>
+    <circle cx="27" cy="22" r="13" fill="#b9e987"/>
+    <path d="M24 14L24 30L36 22Z" fill="#16372c"/>
+    <text x="53" y="27" font-size="12" fill="#e3f3df" letter-spacing="2">PLAYING • CINEMATIC INTRO</text>
+    <rect x="300" y="19" width="600" height="5" rx="3" fill="#35544c"/>
+    <rect x="300" y="19" width="600" height="5" rx="3" fill="#a9e87a">
+      <animate attributeName="width" values="0;600;0" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="923" y="27" font-size="12" fill="#d6e9d8">LOOP  •  08 SEC</text>
+  </g>
+  <text x="1140" y="580" text-anchor="end" fill="#c7dfc9" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" opacity=".7">EDUCATIONAL SIMULATION • NOT FINANCIAL ADVICE</text>
+</g>
+</svg>
