@@ -559,8 +559,13 @@ coach: score +0.21 below 0.50 (MIXED) — no setup, no trade. Waiting is a posit
 This is the most important part of the tool. The frog is not a signal generator — it's a filter. Most of the time it says WAIT. That's correct.
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/Bo1SwnQO1WducbzDUr/giphy.gif"
+       width="100%"
+       alt="Pepe the frog animation">
+</div>
 
-🛡️ Risk Management System
+# 🛡️ Risk Management System
 
 FROG TRADE enforces three layers of risk control:
 
