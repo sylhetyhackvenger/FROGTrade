@@ -1,19 +1,13 @@
-🐸 FROG TRADE
 
-```
-         .-'''-.             .-'''-.
-        / .---. \___________/ .---. \
-       | | (@) |             | (@) | |
-        \ '---'    _     _    '---' /
-       .-'.      (o)   (o)      .'-.-.
-      /    '-._               _.-'    \
-     |    .-'   '-.._____..-'   '-.    |
-     |   /    \_____________/     \   |
-      \  '-.                     .-'  /
-       '._  '---...._____....---'  _.'
-          '-.._               _..-'
-               '-----------'
-```
+<p align="center">
+  <a href="./frog-trade-player.svg">
+    <img
+      src="./frog-trade-player.svg"
+      alt="FROG TRADE - The Pond Masterclass"
+      width="100%"
+    />
+  </a>
+</p>
 
 FROG TRADE — A professional-grade, terminal-based trading laboratory disguised as a procrastination engine.
 
