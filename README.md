@@ -78,7 +78,7 @@ If you are looking for a "trading bot that prints money," close this tab. The fr
 45. License & Disclaimer
 
 ---
-
+![Banner 1](assets/1.png)
 🐸 What Is FROG TRADE?
 
 FROG TRADE is a terminal-native binary-options-style trading simulator designed for people who:
@@ -121,7 +121,7 @@ The tagline is:
 You will spend hours here. You will learn. And you will lose fake money instead of real money while you do it.
 
 ---
-
+![Banner 1](assets/2.png)
 📊 Feature Matrix
 
 Feature Status Notes
@@ -172,7 +172,7 @@ Step 3 — (Optional) Install termux-api for better terminal handling
 ```bash
 pkg install termux-api -y
 ```
-
+![Banner 1](assets/3.png)
 Step 4 — Download FROG TRADE
 
 ```bash
@@ -231,7 +231,7 @@ python3 frogtrade.py
 WSL note: Use Windows Terminal, not the legacy console, for correct 24-bit color and Unicode block rendering.
 
 ---
-
+![Banner 1](assets/4.png)
 🪟 Installation — Windows
 
 Option A — Native Python
@@ -305,7 +305,7 @@ STEP 1 — Market
 ```
 
 Step 2 — Timeframe
-
+![Banner 1](assets/5.png)
 ```
 STEP 2 — Timeframe
   1. 1m   (60s candles)
@@ -393,7 +393,7 @@ Anatomy of the Analysis Panel
 · RSI — momentum reading
 · Vote row — every indicator's lean (▲ up, ▼ down, – neutral)
 · Coach — one-line explanation of the current state
-
+![Banner 1](assets/6.png)
 ---
 
 ⌨️ Keyboard Reference
@@ -441,7 +441,7 @@ Key Action
 Ctrl+C Quit safely from any screen
 
 ---
-
+![Banner 1](assets/7.png)
 🧠 The Analysis Engine
 
 The heart of FROG TRADE is the analyze() function. It takes closed candles, computes every indicator, and produces an Analysis object with:
