@@ -113,7 +113,7 @@
     <rect width="1092" height="44" rx="13" fill="#06151c" fill-opacity=".82" stroke="#bcebd1" stroke-opacity=".25"/>
     <circle cx="27" cy="22" r="13" fill="#b9e987"/>
     <path d="M24 14L24 30L36 22Z" fill="#16372c"/>
-    <text x="53" y="27" font-size="12" fill="#e3f3df" letter-spacing="2">PLAYING • CINEMATIC INTRO</text>
+    <text x="53" y="27" font-size="12" fill="#e3f3df" letter-spacing="2">PLAYING • MASTER FROG INTRO</text>
     <rect x="300" y="19" width="600" height="5" rx="3" fill="#35544c"/>
     <rect x="300" y="19" width="600" height="5" rx="3" fill="#a9e87a">
       <animate attributeName="width" values="0;600;0" dur="8s" repeatCount="indefinite"/>
