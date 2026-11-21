@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./asset/frog-trade-player.svg"
+    src="./assets/frog-trade-player.svg"
     alt="FROG TRADE — The Pond Masterclass"
     width="100%"
   />
